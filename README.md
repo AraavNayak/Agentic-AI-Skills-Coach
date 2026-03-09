@@ -1,5 +1,7 @@
 <h1>Agentic AI Skills Coach</h1>
 
+<img width="542/2" height="573/2" alt="image" src="https://github.com/user-attachments/assets/c006e956-18d4-49b1-a1f5-56d1926f2fb3" />
+
 What it does 
 <br>
 AI Skill Coach evaluates any visually or audibly verifiable skill—public speaking, pushup form, dribbling a basketball, interview delivery, you name it. The user enters a skill and records a short video. Our system then pulls expert technique standards from the web, analyzes the user’s performance using specialized vision, audio, and motion agents, and delivers instructor-like voice feedback with specific, actionable corrections. It behaves like a personalized coaching team watching you perform, scoring your form, identifying mistakes, and telling you exactly what to fix and how to improve.
